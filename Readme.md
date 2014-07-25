@@ -1,8 +1,8 @@
 #REST Java Template
 This template shows you and helps you deploying a simple RESTfull API using:
 
-	* [gson](https://code.google.com/p/google-gson/)
-	* [jersey](https://jersey.java.net)
+* [gson](https://code.google.com/p/google-gson/)
+* [jersey](https://jersey.java.net)
 
 ## Running this example:
 All you need to start running this example is to replace the placeholder `{{MODELNAME}}` and `{{MODELNAME_B}}` with your modelname in every file of this template. All you have to do is configure the `replacer.sh` with your modelname, host and template path and run it. Thats all!

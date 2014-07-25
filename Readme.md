@@ -5,7 +5,7 @@ This template shows you and helps you deploying a simple RESTfull API using:
 * [jersey](https://jersey.java.net)
 
 ## Running this example:
-All you need to start running this example is to replace the placeholder `{{MODELNAME}}` and `{{MODELNAME_B}}` with your modelname in every file of this template. All you have to do is configure the `replacer.sh` with your modelname, host and template path and run it. Thats all!
+All you need to start running this example is to replace the placeholder `{{MODELNAME}}` and `{{MODELNAME_B}}` with your modelname in every file of this template. All you have to do is configure the `replacer.sh` with your `modelname`, `host` and `template-path` and run it. Thats it!
 
 ## API Blueprint
 
